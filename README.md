@@ -1,16 +1,12 @@
-# flutter_api_integration
+# Flutter API Integration - Mobile App 
 
-A new Flutter project.
+## [Watch it on YouTube](https://youtu.be/bU1tVWxxH2A)
 
-## Getting Started
+### Flutter API Integration App GetX
 
-This project is a starting point for a Flutter application.
+A nice clean Flutter Mobile App using Rest API.Today I will show you how you can Integrate API into your Flutter App.
 
-A few resources to get you started if this is your first Flutter project:
+### Flutter Cocktail App API integration
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br>
+<img src="https://user-images.githubusercontent.com/65107679/182152767-2633d4ea-1016-4ec9-b65c-50fb13dfbf4c.PNG" alt="portfolio" width="600">
